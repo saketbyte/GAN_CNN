@@ -10,7 +10,7 @@ The model architecture is versatile, a couple of tweaks here and there when adde
 ## Results:
 
 The following GIF shows development over the 25 iterations of GAN model:
-![GIF](https://github.com/saketbyte/GAN_CNN/blob/main/gans_training.gif)
+![GIF](saketbyte/GAN_CNN/gans_training.gif)
 
 ### Dependencies
 * pytorch - torch.nn is used extensively.
